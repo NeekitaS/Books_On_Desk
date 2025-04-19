@@ -2,7 +2,7 @@ import React from "react";
 import "./navbar.css";
 const Navbar = () => {
   return (
-    <nav className="navbar">
+    <nav className="navbar shadow-md">
       <a className="title" href="/">
         BooksOnDesk
       </a>
@@ -35,10 +35,7 @@ const Navbar = () => {
             <a className="content" href="#commmunity">Community</a>
           </li>
           <li>
-            <a className="login log-sig" href="#login">Log In</a>
-          </li>
-          <li>
-            <a className="signup log-sig" href="signup">Sign Up</a>
+            <a className="create-profile" href="#login">Create Prolife</a>
           </li>
         </ul>
       </div>

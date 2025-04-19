@@ -5,7 +5,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /* border: 2px solid rgb(171, 193, 207); */
+    border-top: 2px solid rgb(171, 193, 207);
 }
 .contact .content-left {
     width: 60%;

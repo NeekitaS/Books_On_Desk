@@ -17,7 +17,7 @@ const FormSection = () => {
                     <i className="fa-brands fa-square-instagram"></i>
                 </div>
             </div>
-            <div className="contact-form shadow-lg bg-neutral-200">
+            <div className="contact-form shadow-lg bg-white">
                 <form action="" name="contact-form">
                     <div className="input-grp">
                         <label for="fname">First Name</label>
